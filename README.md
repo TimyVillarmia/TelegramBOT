@@ -1,5 +1,4 @@
-# ProductivityBOT <img src="https://user-images.githubusercontent.com/87883347/175946722-b9af73b9-fd17-49e6-9e4a-cc3b62d65332.png" width="50px" height="50px"> (deprecated)
-## Description
+# ProductivityBOT <img src="https://user-images.githubusercontent.com/87883347/175946722-b9af73b9-fd17-49e6-9e4a-cc3b62d65332.png" width="50px" height="50px">
 
 A Telegram bot  that sends active online quizzes, examinations, and assignments from the School's LMS https://sams.act.edu.ph/ by web scraping 
 
